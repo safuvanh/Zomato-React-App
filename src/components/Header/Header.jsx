@@ -48,7 +48,7 @@ const Header = () => {
           |
           <input
             type="text"
-            placeholder=" Search For Restaurant , cuisine or a dish"
+            placeholder=" Jenkins CI/CD Demo"
           />
         </div>
       </div>
